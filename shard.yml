@@ -2,7 +2,7 @@ name: var
 version: 1.4.0
 
 authors:
-  - maiha <maiha@wota.jp> (Owner)
-  - r3id <alan@r3id.dev> (Contributor)
+  - maiha <maiha@wota.jp>
+  - r3id <alan@r3id.dev>
 
 license: MIT
